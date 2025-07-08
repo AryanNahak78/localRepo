@@ -12,7 +12,6 @@ public class aa {
 					count++;
 				}
 			}
-			System.out.println(s.charAt(i)+"="+count);
 		}
 	}
 
